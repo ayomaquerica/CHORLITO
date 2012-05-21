@@ -8,6 +8,7 @@ public class pastilla {
 		// TODO Auto-generated method stub
 		
 		System.out.println("corazon de chocolate");
+		System.out.println("LAS RUEDAS");
 
 	}
 
